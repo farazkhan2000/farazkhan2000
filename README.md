@@ -29,7 +29,7 @@ I'm Faraz! a passionate web developer and designer. I am a freelancer providing 
 
 ## Github Stats  
 
-<a href="http://www.github.com/farazkhan2000"><img src="https://github-readme-stats.vercel.app/api?username=farazkhan2000&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="farazkhan2000's GitHub stats" /></a>
+<a href="http://www.github.com/farazkhan2000"><img src="https://github-readme-stats.vercel.app/api?username=farazkhan2000&show_icons=true&hide=&count_private=true&title_color=FB8C00&text_color=151515&icon_color=FB8C00&bg_color=FFFEFE&hide_border=true&show_icons=true" alt="farazkhan2000's GitHub stats" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farazkhan2000" alt="farazkhan2000" /></p>
 
