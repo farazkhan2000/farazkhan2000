@@ -21,16 +21,17 @@
 
 I'm Faraz! a passionate web developer and designer. I am a freelancer providing my services on platforms like Upwork and Fiverr. Welcome to my GitHub page!
 <br/>
-<p>🔭 I'm currently working on **a portfolio website for awwwards.com**</p>
-<p>👯 I want to collaborate on open source projects</p>
-<p>🌱 I'm currently learning **Next.js**</p>
-<p>📫 How to reach me? **f.skipper14@gmail.com**</p>
+<p>🔭 I'm currently working on <b>a portfolio website for awwwards.com</b></p>
+<p>👯 I want to collaborate on <b>open source projects</b></p>
+<p>🌱 I'm currently learning <b>Next.js</b></p>
+<p>📫 How to reach me? <b>f.skipper14@gmail.com</b></p>
  
 
 ## Github Stats  
 
 <a href="http://www.github.com/farazkhan2000"><img src="https://github-readme-stats.vercel.app/api?username=farazkhan2000&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="farazkhan2000's GitHub stats" /></a>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farazkhan2000" alt="farazkhan2000" /></p>
 
 ## Languages and Tools  
 <div align="center">  
