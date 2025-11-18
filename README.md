@@ -51,7 +51,10 @@ I’m Faraz Khan, a **full-stack web developer** from Finland, who enjoys turnin
 
 ### **GitHub Stats** 📊
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farazkhan2000&hide_border=true" height="150" />
+  <img 
+    src="https://streak-stats.vercel.app/?user=farazkhan2000&theme=dark&hide_border=true&layout=compact" 
+    height="150"
+  />
 </p>
 
 <p align="left">
