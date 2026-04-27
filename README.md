@@ -1,11 +1,7 @@
 ## **Faraz Khan** - Full Stack Developer 👨🏼‍💻
 
 
-Full-stack and mobile developer working with Laravel, Vue.js, React, and React Native. I build web apps, APIs, and mobile apps that ship and scale.
-
-Currently exploring AI integration and LLM APIs, applying them directly to real products. Pursuing an MSc in Information Systems at the University of Jyväskylä, Finland.
-
-Open to collaborating on interesting projects.
+Full-stack and mobile developer with 4+ years of experience building web apps and APIs using Laravel, Vue.js, React, and React Native. Currently based in Helsinki, pursuing an MSc in Information Systems at the University of Jyväskylä, and exploring AI integration and LLM APIs. Open to collaborating on interesting projects.
 
 ---
 
