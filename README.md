@@ -1,7 +1,11 @@
 ## **Faraz Khan** - Full Stack Developer 👨🏼‍💻
 
 
-I’m Faraz Khan, a **full-stack web developer** from Finland, who enjoys turning ideas into clean, usable, and meaningful digital experiences. I’m currently pursuing my **Master’s in Information Systems at the University of Jyväskylä**, where I’m expanding my understanding of modern systems and how people interact with technology. I push myself to learn something new every day whether it’s a new framework, a better pattern, or a smarter way to build. For me, development isn’t just work, it’s a craft I’m always trying to refine.
+Full-stack and mobile developer working with Laravel, Vue.js, React, and React Native. I build web apps, APIs, and mobile apps that ship and scale.
+
+Currently exploring AI integration and LLM APIs, applying them directly to real products. Pursuing an MSc in Information Systems at the University of Jyväskylä, Finland.
+
+Open to collaborating on interesting projects.
 
 ---
 
