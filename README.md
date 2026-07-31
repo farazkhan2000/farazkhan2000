@@ -1,9 +1,10 @@
 ## **Faraz Khan** - Software Engineer
 
-
 I'm a Software Engineer based in Finland, currently pursuing an MSc in Information Systems at the University of Jyväskylä.
 
-Over the past few years I've worked on web applications, internal business systems, restaurant platforms, and custom software for clients. I enjoy understanding how a product works, turning requirements into maintainable software, and continuously learning new technologies when a project calls for them.
+Over the past few years, I've built software for businesses, restaurants, and startups, working across web applications, internal tools, APIs, and custom platforms. I enjoy understanding how products work, turning ideas into maintainable software, and choosing the right technologies for each project rather than relying on a single stack.
+
+I'm currently exploring AI engineering, automation, and modern software architecture while continuing to build products that solve practical problems.
 
 ---
 
